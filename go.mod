@@ -1,1 +1,1 @@
-module github.com/zachaller/go-errors/v2
+module github.com/tleben/go-errors/v2
